@@ -14,6 +14,8 @@ Go to https://github.com/settings/connections/applications/64a051cf1598b9f0658f 
 
 If you want the assignments to be private, you can apply for an educational discount that will grant the organization unlimited repositories. The link for the application is here: https://education.github.com/discount_requests/new. The GIF below shows the beginning of the application process
 
+**Note:** Base organizations with the free account now have unlimited colaborators and private repos. Upgrade is not really necessary. To upgrade to a Team plan with Teacher Toolbox already setup, this link works https://education.github.com/toolbox/offers/github-org-upgrades The Team plan offers more free Actions minutes for private repos.
+
 
 ![Alt Text](http://g.recordit.co/vfVgVY4bgm.gif)
 
