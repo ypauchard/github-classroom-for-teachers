@@ -4,7 +4,7 @@ This is a guide for using GitHub Classroom to assist or run your class. We are u
 
 
 ### Setting up GitHub Classroom:
-1. If you plan on repeating the class in future semesters, set up a "master" classroom organization. If you are teaching a class titled "Intro to Statistics", we recommend calling this organization intro-statistics-master, or something similar. We use this organization to host all assignments that will be used in the current and future versions of the class. Each assignment should be its own repository. When using GitHub classroom to send out assignments, we can use repositories from this organization as starter code. If changes need to be made for future years, you can change the repository in the organization without affecting the current version of the class. The GIF below shows how to create an organization on GitHub
+1. If you plan on repeating the class in future semesters, set up a "master" classroom organization. If you are teaching a class titled "Intro to Statistics", we recommend calling this organization intro-statistics-master, or something similar. We use this organization to host all assignments that will be used in the current and future versions of the class. Each assignment should be its own repository. When using GitHub classroom to send out assignments, assignment repositories from this organization need to be re-created in the current term organization (see below) to serve as starter code. If changes need to be made for future years, you can change the repository in the organization without affecting the current version of the class. The GIF below shows how to create an organization on GitHub
 
 ![Alt Text](http://g.recordit.co/k16ii87Xuc.gif)
 
